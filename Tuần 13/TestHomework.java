@@ -1,5 +1,3 @@
-
-
 import org.example.Homework;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
@@ -69,8 +67,6 @@ public class TestHomework {
                 Homework.homeworkDecision(41, 15.55, 600, "C")
         );
     }
-
-    // ===== Business Logic =====
 
     @org.junit.jupiter.api.Test
     void tc_09() {
